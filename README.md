@@ -1,4 +1,4 @@
 # phuhunglife
 No CSS
-No JS
+Has JS
 No PHOTO
